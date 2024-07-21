@@ -1,9 +1,11 @@
 # Ampel-Interaktion
 
-Project for a Tangible-Prototype
+## About
 
-Compatible with Board: Heltec WiFi Kit 32 (V3)
+Project for a Tangible-Prototype (currently without display functionality)
 
-(Currently without display functionality)
+## Technicalities
 
-For reference see: Examples for the Heltec Board in the Arduino IDE, especially for code for the integrated display.
+- Compatible with Board: Heltec WiFi Kit 32 (V3)
+
+- For reference see: Examples for the Heltec Board in the Arduino IDE, especially for code for the integrated display.
